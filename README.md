@@ -10,7 +10,7 @@
 </p>
 <hr>
 
-<h2 align="center"> <a href="https://stardev.io/developers/rares9301"><img alt="Check out rares9301&apos;s profile on stardev.io" src="https://stardev.io/developers/rares9301/badge/languages/global.svg" /></a> </h2>
+<h2 align="center"> <a href="https://stardev.io/developers/rares9301"><img alt="Check out rares9301&apos;s profile on stardev.io" src="https://stardev.io/developers/rares9301/badge/languages/country.svg" /></a> </h2>
 <h1 align="center"> <a href="https://octo-ring.com/register">+</a> <a href="https://octo-ring.com/p/rares9301/prev"><</a> <a href="https://octo-ring.com/">
 <img align="center" src="https://w0.peakpx.com/wallpaper/431/461/HD-wallpaper-anime-classroom-of-the-elite-ichika-amasawa.jpg" height="150px"></a> <a href="https://octo-ring.com/p/rares9301/next">></a> <a href="https://octo-ring.com/p/rares9301/random">!</a>
 </h1>
