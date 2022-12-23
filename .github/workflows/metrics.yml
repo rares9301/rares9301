@@ -84,7 +84,7 @@ jobs:
           plugin_music_time_range: short
           plugin_music_top_type: tracks
           plugin_music_user: 31rgrapqwqapxmr4na3m4sguhmcq
-          plugin_notable: yes
+          plugin_notable: yes 
           plugin_notable_from: organization
           plugin_notable_types: commit
           plugin_repositories: yes
