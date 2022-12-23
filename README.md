@@ -3,9 +3,9 @@
 
 
 <hr>
-<img src="./github-metrics.svg">
+<h2 align="center"><img src="./github-metrics.svg"></h2>
 
-<h3 align="center"><i>there must be a way.</i></h2>
+<h3 align="center"><i>there must be a way.</i></h3>
 <p align="center">
 <img alt= My discord profile src="https://discord-readme-badge.vercel.app/api?id=299220016530849793" />></a>
 </p>
@@ -15,8 +15,3 @@
 <img align="center" src="https://w0.peakpx.com/wallpaper/431/461/HD-wallpaper-anime-classroom-of-the-elite-ichika-amasawa.jpg" height="150px"></a> <a href="https://octo-ring.com/p/rares9301/next">></a> <a href="https://octo-ring.com/p/rares9301/random">!</a>
 </h1>
 
-<details align="center">
-<summary>GitHub Metrics</summary>
-<img src="./github-metrics.svg">
-
-</details>
