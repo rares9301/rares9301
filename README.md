@@ -6,7 +6,7 @@
 
 <h3 align="center"><i>there must be a way.</i></h2>
 <p align="center">
-<a href="https://discord-readme-badge.vercel.app"><img alt= My discord profile src="https://discord-readme-badge.vercel.app/api?id=299220016530849793" height="80px" />></a>
+<img alt= My discord profile src="https://discord-readme-badge.vercel.app/api?id=299220016530849793" />></a>
 </p>
 <hr>
 <h1 align="center"> <a href="https://octo-ring.com/register">+</a> <a href="https://octo-ring.com/p/rares9301/prev"><</a> <a href="https://octo-ring.com/">
