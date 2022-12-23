@@ -3,6 +3,7 @@
 
 
 <hr>
+<img src="./github-metrics.svg">
 
 <h3 align="center"><i>there must be a way.</i></h2>
 <p align="center">
