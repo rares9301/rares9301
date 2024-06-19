@@ -1,13 +1,12 @@
 <h2 align="center">rares9301 (ap0)</h1>
-<p align="center">絶望に堕ちるのは黙示録のようで、抜け出すことができないかもしれません</p>
-
+<p align="center">why invest a whole 5 minutes manually laboring over a task when you can have the luxury of spending 3-5 business days to automate it?</p>
 
 <hr>
 <h2 align="center"><img src="./github-metrics.svg"></h2>
 
 <h3 align="center"><i>there must be a way.</i></h3>
 <p align="center">
-<img alt= My discord profile src="https://discord-readme-badge.vercel.app/api?id=299220016530849793" />></a>
+<img alt= My discord profile src="https://discord-readme-badge.vercel.app/api?id=299220016530849793" /></a>
 </p>
 <hr>
 
