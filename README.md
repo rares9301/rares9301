@@ -22,6 +22,8 @@
 <h3>Topic - Systems</h3>
 <table>
   <tr>
+     <td><a href="https://www.credly.com/badges/a49a3a5e-e3a0-4870-baed-95a0af0f060d/public_url"><img alt="IMS Database Performance and Tuning" src="cert/ims-database-performance-and-tuning.png" width="140" height="140"/></a></td>
+     <td><a href="https://www.credly.com/badges/7ed9b367-8ad3-4d48-8004-dad8788d08fb/public_url"><img alt="z/OS System Services Structure" src="cert/z-os-system-services-structure.png" width="140" height="140"/></a></td>
     <td><a href="https://www.credly.com/badges/b0225e02-be40-49f5-a798-bb3a69d52e3f/public_url"><img alt="Automatic Binary Optimizer for z/OS Essentials V2" src="cert/automatic-binary-optimizer-for-z-os-essentials-v2.png" width="140" height="140"/></a></td>
     <td><a href="https://www.credly.com/badges/8d07431e-8278-47ff-92d7-164ecb6ed493/public_url"><img alt="Linux on IBM LinuxONE Technical Sales Intermediate" src="cert/linux-on-ibm-linuxone-technical-sales-intermediate.png" width="140" height="140"/></a></td>
     <td><a href="https://www.credly.com/badges/f7000a91-47de-4511-8328-3d2f7b1bcdee/public_url"><img alt="IBM zSystems Cybersecurity Insights" src="cert/ibm-zsystems-cybersecurity-insights.png" width="140" height="140"/></a></td>
@@ -36,10 +38,12 @@
   </tr>
 </table>
 
-<h3>Topic - Cloud & Data</h3>
+<h3>Topic - Cloud & Automation</h3>
 <table>
   <tr>
-    
+    <td><a href="https://www.credly.com/badges/e9cd2170-19a6-471b-8918-6923cd93bd96/public_url"><img alt="IBM Robotic Process Automation - Advanced" src="cert/ibm-robotic-process-automation-advanced.png" width="140" height="140"/></a></td> 
+    <td><a href="https://www.credly.com/badges/7352f25e-2fe5-40ef-a3c1-0c13ecc28a9d/public_url"><img alt="IBM Cloud Advanced Architect Concepts v2" src="cert/ibm-cloud-advanced-architect-concepts-v2.png" width="140" height="140"/></a></td> 
+    <td><a href="https://www.credly.com/badges/5b4dc377-fd51-4a87-a6fd-c5948cb00278/public_url"><img alt="IBM Cloud Advanced Architect Cloud Options" src="cert/ibm-cloud-advanced-architect-cloud-options.png" width="140" height="140"/></a></td> 
   </tr>
 </table>
 <hr>
