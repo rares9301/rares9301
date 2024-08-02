@@ -23,8 +23,13 @@
 <table>
   <tr>
      <td><a href="https://www.credly.com/badges/a49a3a5e-e3a0-4870-baed-95a0af0f060d/public_url"><img alt="IMS Database Performance and Tuning" src="cert/ims-database-performance-and-tuning.png" width="140" height="140"/></a></td>
+     <td><a href="https://www.credly.com/badges/c4e78e27-d53f-4959-a583-59e1b08cda6d/public_url"><img alt="IMS Database Repair" src="cert/ims-database-repair.png" width="140" height="140"/></a></td>
+     <td><a href="https://www.credly.com/badges/ca211cec-3c79-4eb2-883e-32fd4ee15410/public_url"><img alt="IMS Fast Path Implementation" src="cert/ims-fast-path-implementation.png" width="140" height="140"/></a></td> 
      <td><a href="https://www.credly.com/badges/7ed9b367-8ad3-4d48-8004-dad8788d08fb/public_url"><img alt="z/OS System Services Structure" src="cert/z-os-system-services-structure.png" width="140" height="140"/></a></td>
     <td><a href="https://www.credly.com/badges/b0225e02-be40-49f5-a798-bb3a69d52e3f/public_url"><img alt="Automatic Binary Optimizer for z/OS Essentials V2" src="cert/automatic-binary-optimizer-for-z-os-essentials-v2.png" width="140" height="140"/></a></td>
+    
+  </tr>
+  <tr>
     <td><a href="https://www.credly.com/badges/8d07431e-8278-47ff-92d7-164ecb6ed493/public_url"><img alt="Linux on IBM LinuxONE Technical Sales Intermediate" src="cert/linux-on-ibm-linuxone-technical-sales-intermediate.png" width="140" height="140"/></a></td>
     <td><a href="https://www.credly.com/badges/f7000a91-47de-4511-8328-3d2f7b1bcdee/public_url"><img alt="IBM zSystems Cybersecurity Insights" src="cert/ibm-zsystems-cybersecurity-insights.png" width="140" height="140"/></a></td>
   </tr>
